@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+BERRY+CREEK+RANCHERIA+OF+MAIDU+INDIANS+O",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+BERRY+CREEK+RANCHERIA+OF+MAIDU+INDIANS+O",
+  "title": "Federal Register - CA BERRY CREEK RANCHERIA OF MAIDU INDIANS O",
+  "fetched_at": "2026-11-23T17:51:47.445330Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 134043,
+  "sha256": "8fca5d9995bb0a1079dc7d6a2a09a16f1edc68dfff24cf5a5da5a21fd7ff6f00",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
